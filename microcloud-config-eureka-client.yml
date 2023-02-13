@@ -46,3 +46,4 @@ spring:
       password: enjoy
   application:
     name: microcloud-config-eureka-client
+    
